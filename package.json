@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "prisma:introspect": "prisma introspect",
-    "prisma:generate": "prisma generate"
+    "prisma:generate": "prisma generate",
+    "package": "serverless package"
   },
   "devDependencies": {
     "prisma": "2.22.1",
